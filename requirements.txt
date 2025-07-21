@@ -1,5 +1,5 @@
 streamlit
 mediapipe==0.10.9
-Opencv-python-headless
+opencv-python-headless
 numpy
 fpdf
